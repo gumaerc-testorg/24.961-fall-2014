@@ -2,8 +2,13 @@
 content_type: resource
 description: This is a resource file that contains information regarding licensing
   by cue.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/24-961-introduction-to-phonology-fall-2014/5a190dba967db1852af5a573f97e420e_MIT24_961F14_Lecture13.pdf
+file: /media/courses/24-961-introduction-to-phonology-fall-2014/5a190dba967db1852af5a573f97e420e_MIT24_961F14_Lecture13.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: '24.961F14 Introduction to Phonology - Lecture Notes: Licensing by Cue and
   P-Map'

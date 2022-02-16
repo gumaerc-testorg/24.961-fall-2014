@@ -2,8 +2,13 @@
 content_type: resource
 description: This is a resource file that contains information regarding phonological
   scales.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/24-961-introduction-to-phonology-fall-2014/c0651ff43404e1d24aaad5cf7a57f3ff_MIT24_961F14_Lecture7.pdf
+file: /media/courses/24-961-introduction-to-phonology-fall-2014/c0651ff43404e1d24aaad5cf7a57f3ff_MIT24_961F14_Lecture7.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: '24.961F14 Introduction to Phonology - Lecture Notes: OT-2 Allophonic Distribution
   and Phonological Scales'
