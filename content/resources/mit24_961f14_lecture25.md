@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: eeeb2664-2a52-1096-345e-f7f687fd77c4
 resourcetype: Document
 title: '24.961F14 Introduction to Phonology - Lecture Notes: Stress-4'
 uid: d660706a-2e4f-4d94-dda2-1cd88ca1de5c

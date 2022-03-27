@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: eeeb2664-2a52-1096-345e-f7f687fd77c4
 resourcetype: Document
 title: '24.961F14 Introduction to Phonology - Lecture Notes: Constraints and Conspiracies'
 uid: e2baeab9-7996-6d75-6563-ee730aaa512e

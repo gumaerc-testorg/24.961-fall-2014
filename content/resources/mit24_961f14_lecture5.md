@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: eeeb2664-2a52-1096-345e-f7f687fd77c4
 resourcetype: Document
 title: '24.961F14 Introduction to Phonology - Lecture Notes: Phonotactics and Markedness'
 uid: 04c7d386-4dd7-a43e-95c9-2939f3b22607
