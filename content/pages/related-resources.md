@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides citations and links to related resources on phonology
+  and phonetics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -94,4 +96,4 @@ General
 
 [SIL Fonts for downloading](http://scripts.sil.org/cms/scripts/page.php?cat_id=FontDownloads), SIL
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[International Phonetic Alphabet (revised to 2005) (PDF)](https://www.internationalphoneticassociation.org/sites/default/files/IPA_Number_chart_(C)2005.pdf)
+[International Phonetic Alphabet (revised to 2005) (PDF)](https://www.internationalphoneticassociation.org/sites/default/files/IPA_Number_chart_(C)2005.pdf)

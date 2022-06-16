@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, requirements, texts, and homework.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -38,11 +40,11 @@ McCarthy, John J. _A Thematic Guide to Optimality Theory_. Cambridge University 
 
 ———. _Doing Optimality Theory: Applying Theory to Data_. Wiley-Blackwell, 2008. ISBN: 9781405151368.
 
-Additional readings can be found in the [Readings]({{< baseurl >}}/pages/readings) section.
+Additional readings can be found in the {{% resource_link 6919d4c9-60ed-df45-d3da-e5dc72545d2c "Readings" %}} section.
 
 Homework
 --------
 
 Homework for a given week will normally be due on **Monday** of the following week. Feel free to discuss the problem sets with one another but each student must turn in their own write-up of the solution. Homeworks will range from relatively straightforward applications of concepts introduced in class to more challenging and open-ended ones.
 
-Problem sets can be found in the [Assignments]({{< baseurl >}}/pages/assignments) section.
+Problem sets can be found in the {{% resource_link d83e06d4-f28a-6206-9a4e-95fcb574a4b2 "Assignments" %}} section.
