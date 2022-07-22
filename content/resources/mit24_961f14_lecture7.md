@@ -6,6 +6,7 @@ file: /courses/24-961-introduction-to-phonology-fall-2014/c0651ff43404e1d24aaad5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: '24.961F14 Introduction to Phonology - Lecture Notes: OT-2 Allophonic Dis
 uid: c0651ff4-3404-e1d2-4aaa-d5cf7a57f3ff
 ---
 This is a resource file that contains information regarding phonological scales.
-

@@ -5,6 +5,7 @@ file: /courses/24-961-introduction-to-phonology-fall-2014/0cfe4168b6c099b60cefb1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '24.961F14 Introduction to Phonology - Lecture Notes: OT-4 Serial Derivat
 uid: 0cfe4168-b6c0-99b6-0cef-b122b81b5f0a
 ---
 This is a resource file that contains information regarding serial derivations.
-

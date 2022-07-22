@@ -5,6 +5,7 @@ file: /courses/24-961-introduction-to-phonology-fall-2014/0f04782268128f2be9a15f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '24.961F14 Introduction to Phonology - Lecture Notes:  Tone-1: African La
 uid: 0f047822-6812-8f2b-e9a1-5f9a9987d1d9
 ---
 This is a resource file that contains information regarding african languages.
-

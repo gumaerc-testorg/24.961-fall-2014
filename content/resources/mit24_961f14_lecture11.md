@@ -6,6 +6,7 @@ file: /courses/24-961-introduction-to-phonology-fall-2014/f79d3d40d0d35a71dc47f8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: '24.961F14 Introduction to Phonology - Lecture Notes: Feature Organizatio
 uid: f79d3d40-d0d3-5a71-dc47-f821a8a63d4f
 ---
 This is a resource file that contains information regarding feature organization -2: below the root node.
-

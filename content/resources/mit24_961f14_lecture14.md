@@ -6,6 +6,7 @@ file: /courses/24-961-introduction-to-phonology-fall-2014/19a3de44d3793a19a461dd
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: '24.961F14 Introduction to Phonology - Lecture Notes: Contrast and Percep
 uid: 19a3de44-d379-3a19-a461-dd4c78ae2b65
 ---
 This is a resource file that contains information regarding contrast and perceptual distinctiveness.
-
