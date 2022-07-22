@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics along with the notes
+  used for each session of the course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: eeeb2664-2a52-1096-345e-f7f687fd77c4
 ---
@@ -28,7 +33,7 @@ LECTURE NOTES
 Basic Premises of the Generative Approach
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 1 Notes (PDF)]({{< baseurl >}}/resources/mit24_961f14_lecture1)
+{{% resource_link 673ba3f0-d0d6-ff09-10d2-f5dff21b5e0b "Lecture 1 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -46,7 +51,7 @@ Basic Premises of the Generative Approach
 Early Generative Model
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 2 Notes (PDF)]({{< baseurl >}}/resources/mit24_961f14_lecture2)
+{{% resource_link f1a89bea-d1cb-cb21-b40a-cd1d1098ece6 "Lecture 2 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +63,7 @@ Early Generative Model
 Ordered Rules
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 3 Notes (PDF)]({{< baseurl >}}/resources/mit24_961f14_lecture3)
+{{% resource_link f1c444fd-28b6-81ab-6882-92ab7b806881 "Lecture 3 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +75,7 @@ Ordered Rules
 Derivational Constraints and Conspiracies
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 4 Notes (PDF)]({{< baseurl >}}/resources/mit24_961f14_lecture4)
+{{% resource_link e2baeab9-7996-6d75-6563-ee730aaa512e "Lecture 4 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -82,7 +87,7 @@ Derivational Constraints and Conspiracies
 Phonotactics and Markedness
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 5 Notes (PDF)]({{< baseurl >}}/resources/mit24_961f14_lecture5)
+{{% resource_link 04c7d386-4dd7-a43e-95c9-2939f3b22607 "Lecture 5 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -100,7 +105,7 @@ Phonotactics and Markedness
 OT-1: The Basics
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 6 Notes (PDF)]({{< baseurl >}}/resources/mit24_961f14_lecture6)
+{{% resource_link aa2e2487-ecae-856a-055c-6f948a856321 "Lecture 6 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +117,7 @@ OT-1: The Basics
 OT-2: Allophonic Distribution and Phonological Scales
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 7 Notes (PDF)]({{< baseurl >}}/resources/mit24_961f14_lecture7)
+{{% resource_link c0651ff4-3404-e1d2-4aaa-d5cf7a57f3ff "Lecture 7 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +129,7 @@ OT-2: Allophonic Distribution and Phonological Scales
 OT-3: Positional Faithfulness, Constraint Conjunction, Global Comparison
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 8 Notes (PDF)]({{< baseurl >}}/resources/mit24_961f14_lecture8)
+{{% resource_link 0f562403-05d9-7d10-56ed-103deeca847c "Lecture 8 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -136,7 +141,7 @@ OT-3: Positional Faithfulness, Constraint Conjunction, Global Comparison
 OT-4: Serial Derivations
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 9 Notes (PDF)]({{< baseurl >}}/resources/mit24_961f14_lecture9)
+{{% resource_link 0cfe4168-b6c0-99b6-0cef-b122b81b5f0a "Lecture 9 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -154,7 +159,7 @@ OT-4: Serial Derivations
 Feature Organization-1
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 10 Notes (PDF)]({{< baseurl >}}/resources/mit24_961f14_lecture10)
+{{% resource_link fb0e382d-acb5-a8e0-fe1c-9fbdfda15804 "Lecture 10 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -166,7 +171,7 @@ Feature Organization-1
 Feature Organization-2: Organization Below The Root Node
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 11 Notes (PDF)]({{< baseurl >}}/resources/mit24_961f14_lecture11)
+{{% resource_link f79d3d40-d0d3-5a71-dc47-f821a8a63d4f "Lecture 11 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -178,7 +183,7 @@ Feature Organization-2: Organization Below The Root Node
 Feature Organization-3: Underspecification
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 12 Notes (PDF)]({{< baseurl >}}/resources/mit24_961f14_lecture12)
+{{% resource_link f284a793-d44f-7cad-2991-8f818b81cd8d "Lecture 12 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -190,7 +195,7 @@ Feature Organization-3: Underspecification
 Licensing by Cue and P-Map
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 13 Notes (PDF)]({{< baseurl >}}/resources/mit24_961f14_lecture13)
+{{% resource_link 5a190dba-967d-b185-2af5-a573f97e420e "Lecture 13 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -202,7 +207,7 @@ Licensing by Cue and P-Map
 Contrast and Perceptual Distinctiveness
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 14 Notes (PDF)]({{< baseurl >}}/resources/mit24_961f14_lecture14)
+{{% resource_link 19a3de44-d379-3a19-a461-dd4c78ae2b65 "Lecture 14 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -214,7 +219,7 @@ Contrast and Perceptual Distinctiveness
 Tone-1: African Languages
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 15 Notes (PDF)]({{< baseurl >}}/resources/mit24_961f14_lecture15)
+{{% resource_link 0f047822-6812-8f2b-e9a1-5f9a9987d1d9 "Lecture 15 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -226,7 +231,7 @@ Tone-1: African Languages
 Tone-2: Asian Languages
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 16 Notes (PDF)]({{< baseurl >}}/resources/mit24_961f14_lecture16)
+{{% resource_link 6c8d570f-68d1-07c4-84c4-da317ebcbb3e "Lecture 16 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -238,7 +243,7 @@ Tone-2: Asian Languages
 Harmony-1
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 17 Notes (PDF)]({{< baseurl >}}/resources/mit24_961f14_lecture17)
+{{% resource_link e0c699e6-0ea4-93e6-1293-fcd2c4fa8596 "Lecture 17 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -250,7 +255,7 @@ Harmony-1
 Harmony-2
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 18 Notes (PDF)]({{< baseurl >}}/resources/mit24_961f14_lecture18)
+{{% resource_link 3c8cc14a-38ac-5720-7ab8-d5d0668ac389 "Lecture 18 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -268,7 +273,7 @@ Harmony-2
 Syllable-1: Sonority
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 19 Notes (PDF)]({{< baseurl >}}/resources/mit24_961f14_lecture19)
+{{% resource_link 6d474c50-dd6d-625a-58cb-bf9bc9ff4c87 "Lecture 19 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -280,7 +285,7 @@ Syllable-1: Sonority
 Syllable-2: Syllable Parsing
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 20 Notes (PDF)]({{< baseurl >}}/resources/mit24_961f14_lecture20)
+{{% resource_link 81ff83ce-9c43-9761-20dd-e9de3064c252 "Lecture 20 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -296,7 +301,7 @@ Syllable-3: Weight
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 21 Notes (PDF)]({{< baseurl >}}/resources/mit24_961f14_lecture21)
+{{% resource_link c22d3383-42b8-c638-dc3e-cb945b1af9c0 "Lecture 21 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -308,7 +313,7 @@ Syllable-3: Weight
 Stress-1: Metrical Grid
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 22 Notes (PDF)]({{< baseurl >}}/resources/mit24_961f14_lecture22)
+{{% resource_link 0092b2e5-1135-a060-1cb2-402de6de38a9 "Lecture 22 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -320,7 +325,7 @@ Stress-1: Metrical Grid
 Stress-2: Trochaic Typology
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 23 Notes (PDF)]({{< baseurl >}}/resources/mit24_961f14_lecture23)
+{{% resource_link 3efaf7c9-27bb-12e2-4805-55516759f65d "Lecture 23 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -332,7 +337,7 @@ Stress-2: Trochaic Typology
 Stress-3: Stress in Windows
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 24 Notes (PDF)]({{< baseurl >}}/resources/mit24_961f14_lecture24)
+{{% resource_link ddcca876-bf5a-279e-4715-bb2f1f165b96 "Lecture 24 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -344,7 +349,7 @@ Stress-3: Stress in Windows
 Stress-4: Peak Prominence Systems
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 25 Notes (PDF)]({{< baseurl >}}/resources/mit24_961f14_lecture25)
+{{% resource_link d660706a-2e4f-4d94-dda2-1cd88ca1de5c "Lecture 25 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -356,7 +361,7 @@ Stress-4: Peak Prominence Systems
 Prosodic Morphology-1
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 26 Notes (PDF)]({{< baseurl >}}/resources/mit24_961f14_lecture26)
+{{% resource_link fddf1f4d-2d4e-8f62-6abe-ba87bb718e1c "Lecture 26 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -368,7 +373,7 @@ Prosodic Morphology-1
 Prosodic Morphology-2a: Hypocoristics and Clippings: Three Case Studies
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 27a Notes (PDF)]({{< baseurl >}}/resources/mit24_961f14_lecture27a)
+{{% resource_link 277e4404-c396-e7fd-72af-4007f64263eb "Lecture 27a Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -380,7 +385,7 @@ Prosodic Morphology-2a: Hypocoristics and Clippings: Three Case Studies
 Prosodic Morphology-2b: Hypocoristics in Fon (Ewe) and Spanish
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 27b Notes (PDF)]({{< baseurl >}}/resources/mit24_961f14_lecture27b)
+{{% resource_link 83f54b45-5cb2-0d2d-65ba-9b89cc1fb816 "Lecture 27b Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -392,7 +397,7 @@ Prosodic Morphology-2b: Hypocoristics in Fon (Ewe) and Spanish
 Prosodic Morphology-2c: Japanese Hypocoristics, Truncations, and Argots
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 27c Notes (PDF)]({{< baseurl >}}/resources/mit24_961f14_lecture27c)
+{{% resource_link 0b32de2f-6930-1a26-25ab-aaefe8187211 "Lecture 27c Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

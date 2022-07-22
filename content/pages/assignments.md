@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the problem sets assigned for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: d83e06d4-f28a-6206-9a4e-95fcb574a4b2
 ---
@@ -25,7 +29,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Northern German (PDF)]({{< baseurl >}}/resources/mit24_961f14_pset1)
+{{% resource_link c0c5e434-a374-6e2f-abb3-4a5bc19e0625 "Northern German (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +38,7 @@ TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Selayarese (PDF)]({{< baseurl >}}/resources/mit24_961f14_pset2)
+{{% resource_link b21fad17-7c4f-e930-d821-b05b2d0ca825 "Selayarese (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +47,7 @@ TOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[English Schwa Syncope / Gbe Reduplication and V-V Assimilation (PDF)]({{< baseurl >}}/resources/mit24_961f14_pset3)
+{{% resource_link c27c74a0-3e28-9e2e-8e4b-9790ab43d2eb "English Schwa Syncope / Gbe Reduplication and V-V Assimilation (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +56,7 @@ TOPICS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Italian Stressed Syllables (PDF)]({{< baseurl >}}/resources/mit24_961f14_pset4)
+{{% resource_link e7827f79-0947-f17b-82b3-178ecf733b95 "Italian Stressed Syllables (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +65,7 @@ TOPICS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Tangale (PDF)]({{< baseurl >}}/resources/mit24_961f14_pset5)
+{{% resource_link 9f658990-152b-2266-e34b-52c3ba0ff45e "Tangale (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +74,7 @@ TOPICS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[Barra Gaelic and Secondary Articulations / Colloquial Bengali (PDF - 1.1MB)]({{< baseurl >}}/resources/mit24_961f14_pset6)
+{{% resource_link a5ee1e98-cd86-11e0-e555-7d2758425fba "Barra Gaelic and Secondary Articulations / Colloquial Bengali (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +83,7 @@ TOPICS
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Phan Rang Cham (PDF)]({{< baseurl >}}/resources/mit24_961f14_pset7)
+{{% resource_link c1a9e634-b0d6-2020-628e-5e3bde58aa1c "Phan Rang Cham (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +92,7 @@ TOPICS
 8
 {{< tdclose >}}
 {{< tdopen >}}
-[ATR Harmony in Yoruba (PDF)]({{< baseurl >}}/resources/mit24_961f14_pset8)
+{{% resource_link 950bc3af-3afa-e6c7-e5ea-896e488a832e "ATR Harmony in Yoruba (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +101,7 @@ TOPICS
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[Miya (PDF)]({{< baseurl >}}/resources/mit24_961f14_pset9)
+{{% resource_link 9bbc51b7-e93c-fcac-f24b-071987cb5d15 "Miya (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

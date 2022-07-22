@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides citations and links to the suggested readings for
+  each session of the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 6919d4c9-60ed-df45-d3da-e5dc72545d2c
 ---
@@ -202,7 +207,7 @@ Feature Organization-2: Organization Below The Root Mode
 
 \[PGG\] "Feature Geometry, Underspecfication, and Constraints." Chapter 9, pp. 451–74.
 
-Padgett, Jaye. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Unabridged Feature Classes in Phonology" (PDF)](https://cpb-us-e1.wpmucdn.com/sites.ucsc.edu/dist/9/300/files/2015/10/unbridged_feature_classes.pdf), University of California, Santa Cruz, May 2001.
+Padgett, Jaye. ["The Unabridged Feature Classes in Phonology" (PDF)](https://cpb-us-e1.wpmucdn.com/sites.ucsc.edu/dist/9/300/files/2015/10/unbridged_feature_classes.pdf), University of California, Santa Cruz, May 2001.
 
 
 {{< tdclose >}}
@@ -238,7 +243,7 @@ Licensing by Cue and P-Map
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262582803) Steriade, Donca. "The Phonology of Perceptibility Effects: The P-Map and Its Consequences for Constraint Organization." Chapter 7 in _The Nature of the Word: Studies in Honor of Paul Kiparsky_. Edited by Kristin Hanson, and Sharon Inkelas. MIT Press, 2008. ISBN: 9780262582803.
 
-\---. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Phonetics in Phonology: The Case of Laryngeal Neutralization" (PDF)](http://www.linguistics.ucla.edu/people/steriade/papers/PhoneticsInPhonology.pdf), Department of Linguistics, University of California, Los Angeles, June 1997.
+\---. ["Phonetics in Phonology: The Case of Laryngeal Neutralization" (PDF)](http://www.linguistics.ucla.edu/people/steriade/papers/PhoneticsInPhonology.pdf), Department of Linguistics, University of California, Los Angeles, June 1997.
 
 
 {{< tdclose >}}
@@ -360,7 +365,7 @@ Syllable-3: Weight
 {{< tdopen >}}
 
 
-Gordon, Matthew. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Syllable Weight." (PDF)](http://www.linguistics.ucsb.edu/faculty/gordon/syllableweight.pdf) Department of Linguistics, University of California, Santa Barbara.
+Gordon, Matthew. ["Syllable Weight." (PDF)](http://www.linguistics.ucsb.edu/faculty/gordon/syllableweight.pdf) Department of Linguistics, University of California, Santa Barbara.
 
 Broselow, Ellen, Su-I Chen, et al. "[Syllable Weight: Convergence of Phonology and Phonetics](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=40635)." _Phonology_ 14, no. 1 (1997): 47–82.
 
