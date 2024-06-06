@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains the information regarding prosodic morphology-2a:
   hypocoristics and clippings: three case studies.'
 file: /courses/24-961-introduction-to-phonology-fall-2014/277e4404c396e7fd72af4007f64263eb_MIT24_961F14_Lecture27a.pdf
+file_size: 508428
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

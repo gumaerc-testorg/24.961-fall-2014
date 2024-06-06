@@ -3,6 +3,7 @@ content_type: resource
 description: 'This is a resource file that contains information regarding feature
   organization -2: below the root node.'
 file: /courses/24-961-introduction-to-phonology-fall-2014/f79d3d40d0d35a71dc47f821a8a63d4f_MIT24_961F14_Lecture11.pdf
+file_size: 680593
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

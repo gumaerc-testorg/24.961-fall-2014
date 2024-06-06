@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding feature organization
   1.
 file: /courses/24-961-introduction-to-phonology-fall-2014/fb0e382dacb5a8e0fe1c9fbdfda15804_MIT24_961F14_Lecture10.pdf
+file_size: 241387
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
