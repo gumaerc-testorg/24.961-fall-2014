@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding phonotactics
   and markedness.
 file: /courses/24-961-introduction-to-phonology-fall-2014/04c7d3864dd7a43e95c92939f3b22607_MIT24_961F14_Lecture5.pdf
+file_size: 235502
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

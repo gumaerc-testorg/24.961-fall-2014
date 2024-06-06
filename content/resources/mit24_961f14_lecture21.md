@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding syllable-3: weight.'
 file: /courses/24-961-introduction-to-phonology-fall-2014/c22d338342b8c638dc3ecb945b1af9c0_MIT24_961F14_Lecture21.pdf
+file_size: 339653
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
