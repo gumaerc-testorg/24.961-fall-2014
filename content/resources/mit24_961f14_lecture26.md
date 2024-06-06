@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding prosodic morphology-1.
 file: /courses/24-961-introduction-to-phonology-fall-2014/fddf1f4d2d4e8f626abeba87bb718e1c_MIT24_961F14_Lecture26.pdf
+file_size: 220647
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
