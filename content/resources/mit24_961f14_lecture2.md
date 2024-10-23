@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding early generative
   model.
-file: /courses/24-961-introduction-to-phonology-fall-2014/f1a89bead1cbcb21b40acd1d1098ece6_MIT24_961F14_Lecture2.pdf
+file: /ol-ocw-studio-app/courses/24-961-introduction-to-phonology-fall-2014/f1a89bead1cbcb21b40acd1d1098ece6_MIT24_961F14_Lecture2.pdf
 file_size: 422428
 file_type: application/pdf
 learning_resource_types:
