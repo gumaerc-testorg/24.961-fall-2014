@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding the basics.
-file: /ol-ocw-studio-app/courses/24-961-introduction-to-phonology-fall-2014/aa2e2487ecae856a055c6f948a856321_MIT24_961F14_Lecture6.pdf
+file: /courses/24-961-introduction-to-phonology-fall-2014/aa2e2487ecae856a055c6f948a856321_MIT24_961F14_Lecture6.pdf
 file_size: 520660
 file_type: application/pdf
 learning_resource_types:

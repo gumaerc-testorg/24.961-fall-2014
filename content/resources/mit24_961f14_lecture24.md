@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding stress-3: stress in
   windows.'
-file: /ol-ocw-studio-app/courses/24-961-introduction-to-phonology-fall-2014/ddcca876bf5a279e4715bb2f1f165b96_MIT24_961F14_Lecture24.pdf
+file: /courses/24-961-introduction-to-phonology-fall-2014/ddcca876bf5a279e4715bb2f1f165b96_MIT24_961F14_Lecture24.pdf
 file_size: 655549
 file_type: application/pdf
 learning_resource_types:

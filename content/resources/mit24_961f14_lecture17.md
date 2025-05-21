@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding harmony 1.
-file: /ol-ocw-studio-app/courses/24-961-introduction-to-phonology-fall-2014/e0c699e60ea493e61293fcd2c4fa8596_MIT24_961F14_Lecture17.pdf
+file: /courses/24-961-introduction-to-phonology-fall-2014/e0c699e60ea493e61293fcd2c4fa8596_MIT24_961F14_Lecture17.pdf
 file_size: 348879
 file_type: application/pdf
 learning_resource_types:
