@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding constraints
   and conspiracies.
-file: /ol-ocw-studio-app/courses/24-961-introduction-to-phonology-fall-2014/e2baeab979966d756563ee730aaa512e_MIT24_961F14_Lecture4.pdf
+file: /courses/24-961-introduction-to-phonology-fall-2014/e2baeab979966d756563ee730aaa512e_MIT24_961F14_Lecture4.pdf
 file_size: 430780
 file_type: application/pdf
 learning_resource_types:
