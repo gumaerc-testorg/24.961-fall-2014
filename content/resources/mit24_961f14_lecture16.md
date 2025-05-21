@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding asian languages.
-file: /ol-ocw-studio-app/courses/24-961-introduction-to-phonology-fall-2014/6c8d570f68d107c484c4da317ebcbb3e_MIT24_961F14_Lecture16.pdf
+file: /courses/24-961-introduction-to-phonology-fall-2014/6c8d570f68d107c484c4da317ebcbb3e_MIT24_961F14_Lecture16.pdf
 file_size: 555217
 file_type: application/pdf
 learning_resource_types:

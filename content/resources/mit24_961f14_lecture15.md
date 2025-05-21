@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding african languages.
-file: /ol-ocw-studio-app/courses/24-961-introduction-to-phonology-fall-2014/0f04782268128f2be9a15f9a9987d1d9_MIT24_961F14_Lecture15.pdf
+file: /courses/24-961-introduction-to-phonology-fall-2014/0f04782268128f2be9a15f9a9987d1d9_MIT24_961F14_Lecture15.pdf
 file_size: 799910
 file_type: application/pdf
 learning_resource_types:
