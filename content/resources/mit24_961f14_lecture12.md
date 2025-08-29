@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding underspecification.
-file: /courses/24-961-introduction-to-phonology-fall-2014/f284a793d44f7cad29918f818b81cd8d_MIT24_961F14_Lecture12.pdf
+file: /ol-ocw-studio-app/courses/24-961-introduction-to-phonology-fall-2014/f284a793d44f7cad29918f818b81cd8d_MIT24_961F14_Lecture12.pdf
 file_size: 472829
 file_type: application/pdf
 learning_resource_types:

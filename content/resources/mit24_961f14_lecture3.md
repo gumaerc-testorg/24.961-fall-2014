@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding ordered rules.
-file: /courses/24-961-introduction-to-phonology-fall-2014/f1c444fd28b681ab688292ab7b806881_MIT24_961F14_Lecture3.pdf
+file: /ol-ocw-studio-app/courses/24-961-introduction-to-phonology-fall-2014/f1c444fd28b681ab688292ab7b806881_MIT24_961F14_Lecture3.pdf
 file_size: 394645
 file_type: application/pdf
 learning_resource_types:

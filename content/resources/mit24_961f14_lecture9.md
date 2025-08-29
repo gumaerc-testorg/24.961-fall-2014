@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding serial derivations.
-file: /courses/24-961-introduction-to-phonology-fall-2014/0cfe4168b6c099b60cefb122b81b5f0a_MIT24_961F14_Lecture9.pdf
+file: /ol-ocw-studio-app/courses/24-961-introduction-to-phonology-fall-2014/0cfe4168b6c099b60cefb122b81b5f0a_MIT24_961F14_Lecture9.pdf
 file_size: 626156
 file_type: application/pdf
 learning_resource_types:
