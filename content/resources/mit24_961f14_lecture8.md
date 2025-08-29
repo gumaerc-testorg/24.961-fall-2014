@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding positional
   faithfulness.
-file: /courses/24-961-introduction-to-phonology-fall-2014/0f56240305d97d1056ed103deeca847c_MIT24_961F14_Lecture8.pdf
+file: /ol-ocw-studio-app/courses/24-961-introduction-to-phonology-fall-2014/0f56240305d97d1056ed103deeca847c_MIT24_961F14_Lecture8.pdf
 file_size: 401110
 file_type: application/pdf
 learning_resource_types:

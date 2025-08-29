@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding stress-1: metrical
   grid.'
-file: /courses/24-961-introduction-to-phonology-fall-2014/0092b2e51135a0601cb2402de6de38a9_MIT24_961F14_Lecture22.pdf
+file: /ol-ocw-studio-app/courses/24-961-introduction-to-phonology-fall-2014/0092b2e51135a0601cb2402de6de38a9_MIT24_961F14_Lecture22.pdf
 file_size: 472231
 file_type: application/pdf
 learning_resource_types:
