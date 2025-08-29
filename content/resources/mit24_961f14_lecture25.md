@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding stress-4: peak prominence
   systems.'
-file: /courses/24-961-introduction-to-phonology-fall-2014/d660706a2e4f4d94dda21cd88ca1de5c_MIT24_961F14_Lecture25.pdf
+file: /ol-ocw-studio-app/courses/24-961-introduction-to-phonology-fall-2014/d660706a2e4f4d94dda21cd88ca1de5c_MIT24_961F14_Lecture25.pdf
 file_size: 452859
 file_type: application/pdf
 learning_resource_types:
