@@ -67,7 +67,7 @@ Early Generative Model
 
 \[PGG\] Chapter 2: Phonological Rules and Representations.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262530972) Chomsky, Noam, and Morris Halle. "Word-level Phonology." Chapter 4 in _The Sound Pattern of English_. MIT Press, 1991. ISBN: 9780262530972.
+{{% resource_link "795c849c-1104-4d17-8c65-21cef4bd2c03" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Chomsky, Noam, and Morris Halle. "Word-level Phonology." Chapter 4 in _The Sound Pattern of English_. MIT Press, 1991. ISBN: 9780262530972.
 
 
 {{< tdclose >}}
@@ -85,9 +85,9 @@ Ordered Rules
 
 \[PGG\] "Phonological Alternations and Derivations." Chapter 3, pp. 89–114.
 
-Odden, Dave. "[Opacity and Ordering: H-deletion in Kikerewe](http://dx.doi.org/10.1515/tlir.2000.17.2-4.323)." _The Linguistic Review_ 17, no. 2–4 (2000): 323–35.
+Odden, Dave. "{{% resource_link "7af4ab85-6796-4588-873c-0ec0cca505c1" "Opacity and Ordering: H-deletion in Kikerewe" %}}." _The Linguistic Review_ 17, no. 2–4 (2000): 323–35.
 
-Kumbaraci, Türkân E. "[Consonantally Conditioned Alternation of Vocalic Morphophonemes in Turkish](http://www.jstor.org/stable/30029137)." _Anthropological Linguistics_ 8, no. 1 (1966): 11–24.
+Kumbaraci, Türkân E. "{{% resource_link "eb9b69f4-7b0b-4803-8f55-2d5acbd2363d" "Consonantally Conditioned Alternation of Vocalic Morphophonemes in Turkish" %}}." _Anthropological Linguistics_ 8, no. 1 (1966): 11–24.
 
 
 {{< tdclose >}}
@@ -167,7 +167,7 @@ OT-3: Positional Faithfulness, Constraint Conjunction, Global Comparison
 OT-4: Serial Derivations
 {{< tdclose >}}
 {{< tdopen >}}
-McCarthy, John J. "[An Introduction to Harmonic Serialism](http://works.bepress.com/cgi/viewcontent.cgi?article=1102&context=john_j_mccarthy)." January 2010. From the SelectedWorks of John J. McCarthy, University of Massachusetts-Amherst.
+McCarthy, John J. "{{% resource_link "323653c9-62c9-416a-9dee-0b1dfb02cef2" "An Introduction to Harmonic Serialism" %}}." January 2010. From the SelectedWorks of John J. McCarthy, University of Massachusetts-Amherst.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -207,7 +207,7 @@ Feature Organization-2: Organization Below The Root Mode
 
 \[PGG\] "Feature Geometry, Underspecfication, and Constraints." Chapter 9, pp. 451–74.
 
-Padgett, Jaye. ["The Unabridged Feature Classes in Phonology" (PDF)](https://cpb-us-e1.wpmucdn.com/sites.ucsc.edu/dist/9/300/files/2015/10/unbridged_feature_classes.pdf), University of California, Santa Cruz, May 2001.
+Padgett, Jaye. {{% resource_link "4f486bb3-2e59-4dbe-8d57-6f005d2d978d" "\"The Unabridged Feature Classes in Phonology\" (PDF)" %}}, University of California, Santa Cruz, May 2001.
 
 
 {{< tdclose >}}
@@ -225,7 +225,7 @@ Feature Organization-3: Underspecification
 
 Steriade, Donca. "Underspecification and Markedness." Chapter 4 in _The Handbook of Phonological Theory_. Edited by John A. Goldsmith. Blackwell Publishers, 1996. ISBN: 9780631201267.
 
-Hwang, So-One K., Philip J. Monahan, et al. "[Underspecification and Asymmetries in Voicing Perception](http://dx.doi.org/10.1017/S0952675710000102)." _Phonology_ 27, no. 2 (2010): 205–24.
+Hwang, So-One K., Philip J. Monahan, et al. "{{% resource_link "a0055616-a939-4fcd-99fb-16735e797139" "Underspecification and Asymmetries in Voicing Perception" %}}." _Phonology_ 27, no. 2 (2010): 205–24.
 
 
 {{< tdclose >}}
@@ -241,9 +241,9 @@ Licensing by Cue and P-Map
 {{< tdopen >}}
 
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262582803) Steriade, Donca. "The Phonology of Perceptibility Effects: The P-Map and Its Consequences for Constraint Organization." Chapter 7 in _The Nature of the Word: Studies in Honor of Paul Kiparsky_. Edited by Kristin Hanson, and Sharon Inkelas. MIT Press, 2008. ISBN: 9780262582803.
+{{% resource_link "249c1ad6-2a1a-4600-827a-2c4b1fa9dc26" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Steriade, Donca. "The Phonology of Perceptibility Effects: The P-Map and Its Consequences for Constraint Organization." Chapter 7 in _The Nature of the Word: Studies in Honor of Paul Kiparsky_. Edited by Kristin Hanson, and Sharon Inkelas. MIT Press, 2008. ISBN: 9780262582803.
 
-\---. ["Phonetics in Phonology: The Case of Laryngeal Neutralization" (PDF)](http://www.linguistics.ucla.edu/people/steriade/papers/PhoneticsInPhonology.pdf), Department of Linguistics, University of California, Los Angeles, June 1997.
+\---. {{% resource_link "38a5aafa-f71e-41aa-8838-5378f16e05e9" "\"Phonetics in Phonology: The Case of Laryngeal Neutralization\" (PDF)" %}}, Department of Linguistics, University of California, Los Angeles, June 1997.
 
 
 {{< tdclose >}}
@@ -291,7 +291,7 @@ Tone-2: Asian Languages
 {{< tdopen >}}
 \[PGG\] "Autosegmental Phonology." Chapter 7, pp. 376–94.
 
-Xu, Yi. "[Contextual Tonal Variations in Mandarin](http://dx.doi.org/10.1006/jpho.1996.0034)." _Journal of Phonetics_ 25, no. 1 (1997): 61–83.
+Xu, Yi. "{{% resource_link "f9dc7754-408b-4bb0-a70e-20040f9075fe" "Contextual Tonal Variations in Mandarin" %}}." _Journal of Phonetics_ 25, no. 1 (1997): 61–83.
 
 
 {{< tdclose >}}
@@ -317,7 +317,7 @@ Archangeli, Diana, and Douglas Pulleyblank. "Harmony." Chapter 15 in _The Cambri
 Harmony-2
 {{< tdclose >}}
 {{< tdopen >}}
-McCarthy, John J. "[Autosegmental Spreading in Optimality Theory](http://works.bepress.com/cgi/viewcontent.cgi?article=1099&context=john_j_mccarthy)." August 2011. From the SelectedWorks of John J. McCarthy, University of Massachusetts-Amherst.
+McCarthy, John J. "{{% resource_link "ca8b6b56-327a-45d8-abe2-1316110a8447" "Autosegmental Spreading in Optimality Theory" %}}." August 2011. From the SelectedWorks of John J. McCarthy, University of Massachusetts-Amherst.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -347,7 +347,7 @@ Zec, Draga. "The Syllable." Chapter 8 in _The Cambridge Handbook of Phonology_. 
 Syllable-2: Syllable Parsing
 {{< tdclose >}}
 {{< tdopen >}}
-Steriade, Donca. "[Alternatives to Syllable-Based Accounts of Consonantal Phonotactics](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.16.9358)." ReadBag.com.
+Steriade, Donca. "{{% resource_link "29030aa1-6f64-440f-9c43-8498e14130d0" "Alternatives to Syllable-Based Accounts of Consonantal Phonotactics" %}}." ReadBag.com.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -365,9 +365,9 @@ Syllable-3: Weight
 {{< tdopen >}}
 
 
-Gordon, Matthew. ["Syllable Weight." (PDF)](http://www.linguistics.ucsb.edu/faculty/gordon/syllableweight.pdf) Department of Linguistics, University of California, Santa Barbara.
+Gordon, Matthew. {{% resource_link "2d9e73bd-1f5a-4753-9ce1-1e7c6eea054b" "\"Syllable Weight.\" (PDF)" %}} Department of Linguistics, University of California, Santa Barbara.
 
-Broselow, Ellen, Su-I Chen, et al. "[Syllable Weight: Convergence of Phonology and Phonetics](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=40635)." _Phonology_ 14, no. 1 (1997): 47–82.
+Broselow, Ellen, Su-I Chen, et al. "{{% resource_link "2b81e3d5-225e-4021-84d3-4ded13ebbe95" "Syllable Weight: Convergence of Phonology and Phonetics" %}}." _Phonology_ 14, no. 1 (1997): 47–82.
 
 
 {{< tdclose >}}
@@ -391,7 +391,7 @@ Stress-1: Metrical Grid
 
 Halle, Morris, and William Idsardi. "General Properties of Stress and Metrical Structure." Chapter 11 in _The Handbook of Phonological Theory_. Edited by John A. Goldsmith. Blackwell Publishers, 1996. ISBN: 9780631201267.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262681728) \*\*Idsardi, William J. "Calculating Metrical Structure." Chapter 9 in _Contemporary Views on Architecture and Representations in Phonology_. Edited by Eric Raimy, and Charles E. Cairns. MIT Press, 2009. ISBN: 9780262681728. \[Preview with [Google Books](http://books.google.com/books?id=BFofF9bxA1sC&pg=PA191=onepage)\]
+{{% resource_link "fdbbdc6d-e107-4be2-a8a6-0634dbd8482b" "![Buy at MIT Press](/images/mp_logo.gif)" %}} \*\*Idsardi, William J. "Calculating Metrical Structure." Chapter 9 in _Contemporary Views on Architecture and Representations in Phonology_. Edited by Eric Raimy, and Charles E. Cairns. MIT Press, 2009. ISBN: 9780262681728. \[Preview with {{% resource_link "e3720481-2a21-452a-8af4-828a76238938" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -413,7 +413,7 @@ Stress-2: Trochaic Typology
 
 Kager, René. "Feet and Metrical Stress." Chapter 9 in _The Cambridge Handbook of Phonology_. Edited by Paul De Lacy. Cambridge University Press, 2012. ISBN: 9781107404892.
 
-Gordon, Matthew. "[A Factorial Typology of Quantity-Insensitive Stress](http://dx.doi.org/10.1023/A:1015810531699)." _Natural Language & Linguistic Theory_ 20, no. 3 (2002): 491–552.
+Gordon, Matthew. "{{% resource_link "ddda40cb-701b-45a1-bfa2-e7f7811239f0" "A Factorial Typology of Quantity-Insensitive Stress" %}}." _Natural Language & Linguistic Theory_ 20, no. 3 (2002): 491–552.
 
 
 {{< tdclose >}}
@@ -433,7 +433,7 @@ Stress-3: Stress in Windows
 {{< tdopen >}}
 
 
-Kager, René. "[Stress in Windows: Language Typology and Factorial Typology](http://dx.doi.org/10.1016/j.lingua.2012.06.005)." _Lingua_ 122, no. 13 (2012): 1454–93.
+Kager, René. "{{% resource_link "e170fac8-e6a1-4a83-8f8a-b9c0f7d856ba" "Stress in Windows: Language Typology and Factorial Typology" %}}." _Lingua_ 122, no. 13 (2012): 1454–93.
 
 
 {{< tdclose >}}
@@ -447,7 +447,7 @@ Kager, René. "[Stress in Windows: Language Typology and Factorial Typology](htt
 Stress-4: Peak Prominence Systems
 {{< tdclose >}}
 {{< tdopen >}}
-Kenstowicz, Michael. "Quality-Sensitive Stress." Chapter 9 in _Optimality Theory in Phonology: A Reader_. Edited by John J. McCarthy. Wiley-Blackwell, 2003. ISBN: 9780631226895. \[Preview with [Google Books](http://books.google.com/books?id=f0HduZkJEPUC&pg=PA191=onepage)\]
+Kenstowicz, Michael. "Quality-Sensitive Stress." Chapter 9 in _Optimality Theory in Phonology: A Reader_. Edited by John J. McCarthy. Wiley-Blackwell, 2003. ISBN: 9780631226895. \[Preview with {{% resource_link "516e69b7-deaa-486a-9a5c-bd1e381016f9" "Google Books" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -471,7 +471,7 @@ Prosodic Morphology-1
 Prosodic Morphology-2
 {{< tdclose >}}
 {{< tdopen >}}
-McCarthy, John J., and Alan Prince. "[Prosodic Morphology 1986](http://works.bepress.com/cgi/viewcontent.cgi?article=1053&context=john_j_mccarthy)." January 1996. From the SelectedWorks of John J. McCarthy, University of Massachusetts-Amherst.
+McCarthy, John J., and Alan Prince. "{{% resource_link "ecdefdca-5276-4423-8585-5ce644fcd977" "Prosodic Morphology 1986" %}}." January 1996. From the SelectedWorks of John J. McCarthy, University of Massachusetts-Amherst.
 {{< tdclose >}}
 
 {{< trclose >}}
